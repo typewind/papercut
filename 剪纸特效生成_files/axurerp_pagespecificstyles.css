@@ -1,0 +1,448 @@
+﻿body {
+    margin: 0px;
+}
+
+div {
+    background-repeat: no-repeat;
+}
+
+.raw_image {
+    width: 100%;
+    height: 100%;
+}
+
+.preload {
+    display: none;
+}
+#main_container {
+}
+
+.form_sketch {
+    border-color: transparent;
+    background-color: transparent;
+}
+
+.u0_normal {
+    background-image: url('../android___1_files/u0_normal.png');
+}
+
+.u0_container {
+    position:absolute;
+    left:58px;
+    top:24px;
+    width:427px;
+    height:836px;
+}
+
+#u0_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:427px;
+    height:836px;
+}
+
+.u1 {
+    position:absolute;
+    left:2px;
+    top:410px;
+    width:423px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u2_normal {
+    background-image: url('../android___1_files/u2_normal.png');
+}
+
+.u2_container {
+    position:absolute;
+    left:92px;
+    top:129px;
+    width:360px;
+    height:25px;
+}
+
+#u2_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:360px;
+    height:25px;
+}
+
+.u3 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:356px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u5_container {
+    position:absolute;
+    left:90px;
+    top:155px;
+    width:365px;
+    height:615px;
+}
+
+#u5_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:365px;
+    height:615px;
+}
+
+.u6 {
+    position:absolute;
+    left:2px;
+    top:300px;
+    width:361px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u7_normal {
+    background-image: url('../剪纸特效生成_files/u7_normal.png');
+}
+
+.u7_container {
+    position:absolute;
+    left:318px;
+    top:662px;
+    width:135px;
+    height:60px;
+}
+
+#u7_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:141px;
+    height:66px;
+}
+
+.u8 {
+    position:absolute;
+    left:2px;
+    top:22px;
+    width:131px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u9_normal {
+    background-image: url('../剪纸特效生成_files/u9_normal.png');
+}
+
+.u9_container {
+    position:absolute;
+    left:328px;
+    top:665px;
+    width:45px;
+    height:45px;
+}
+
+#u9_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:45px;
+    height:45px;
+}
+
+.u10 {
+    position:absolute;
+    left:2px;
+    top:14px;
+    width:41px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u11_normal {
+    background-image: url('../剪纸特效生成_files/u11_normal.png');
+}
+
+.u11_container {
+    position:absolute;
+    left:403px;
+    top:665px;
+    width:45px;
+    height:45px;
+}
+
+#u11_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:45px;
+    height:45px;
+}
+
+.u12 {
+    position:absolute;
+    left:2px;
+    top:14px;
+    width:41px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u13 {
+    position:absolute;
+    left:329px;
+    top:710px;
+    width:52px;
+    height:10px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u14 {
+    position:absolute;
+    left:402px;
+    top:710px;
+    width:57px;
+    height:10px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u15 {
+    position:absolute;
+    left:144px;
+    top:285px;
+    width:259px;
+    height:126px;
+    overflow:hidden;
+}
+
+#pd0u15 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:259px;
+    height:126px;
+    
+}
+
+.u16_normal {
+    background-image: url('../剪纸特效生成_files/u16_normal.png');
+}
+
+.u16_container {
+    position:absolute;
+    left:10px;
+    top:20px;
+    width:70px;
+    height:70px;
+}
+
+#u16_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:70px;
+    height:70px;
+}
+
+.u17 {
+    position:absolute;
+    left:2px;
+    top:27px;
+    width:66px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u18_normal {
+    background-image: url('../剪纸特效生成_files/u18_normal.png');
+}
+
+.u18_container {
+    position:absolute;
+    left:95px;
+    top:20px;
+    width:70px;
+    height:70px;
+}
+
+#u18_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:70px;
+    height:70px;
+}
+
+.u19 {
+    position:absolute;
+    left:2px;
+    top:27px;
+    width:66px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u20_normal {
+    background-image: url('../剪纸特效生成_files/u20_normal.png');
+}
+
+.u20_container {
+    position:absolute;
+    left:180px;
+    top:20px;
+    width:70px;
+    height:70px;
+}
+
+#u20_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:70px;
+    height:70px;
+}
+
+.u21 {
+    position:absolute;
+    left:2px;
+    top:27px;
+    width:66px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u22 {
+    position:absolute;
+    left:15px;
+    top:93px;
+    width:60px;
+    height:14px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u23 {
+    position:absolute;
+    left:100px;
+    top:93px;
+    width:60px;
+    height:14px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u24 {
+    position:absolute;
+    left:185px;
+    top:93px;
+    width:60px;
+    height:14px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u25_normal {
+    background-image: url('../返回上一页_files/u38_normal.png');
+}
+
+.u25_container {
+    position:absolute;
+    left:89px;
+    top:722px;
+    width:366px;
+    height:48px;
+}
+
+#u25_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:366px;
+    height:48px;
+}
+
+.u26 {
+    position:absolute;
+    left:2px;
+    top:16px;
+    width:362px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
