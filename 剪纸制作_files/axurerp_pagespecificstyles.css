@@ -1,0 +1,530 @@
+﻿body {
+    margin: 0px;
+}
+
+div {
+    background-repeat: no-repeat;
+}
+
+.raw_image {
+    width: 100%;
+    height: 100%;
+}
+
+.preload {
+    display: none;
+}
+#main_container {
+}
+
+.form_sketch {
+    border-color: transparent;
+    background-color: transparent;
+}
+
+.u0_normal {
+    background-image: url('../android___1_files/u0_normal.png');
+}
+
+.u0_container {
+    position:absolute;
+    left:58px;
+    top:24px;
+    width:427px;
+    height:836px;
+}
+
+#u0_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:427px;
+    height:836px;
+}
+
+.u1 {
+    position:absolute;
+    left:2px;
+    top:410px;
+    width:423px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u2_normal {
+    background-image: url('../android___1_files/u2_normal.png');
+}
+
+.u2_container {
+    position:absolute;
+    left:92px;
+    top:129px;
+    width:360px;
+    height:25px;
+}
+
+#u2_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:360px;
+    height:25px;
+}
+
+.u3 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:356px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u5_container {
+    position:absolute;
+    left:90px;
+    top:155px;
+    width:365px;
+    height:615px;
+}
+
+#u5_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:365px;
+    height:615px;
+}
+
+.u6 {
+    position:absolute;
+    left:2px;
+    top:300px;
+    width:361px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u7_normal {
+    background-image: url('../剪纸制作_files/u7_normal.png');
+}
+
+.u7_container {
+    position:absolute;
+    left:90px;
+    top:667px;
+    width:365px;
+    height:55px;
+}
+
+#u7_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:371px;
+    height:61px;
+}
+
+.u8 {
+    position:absolute;
+    left:2px;
+    top:20px;
+    width:361px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u9_normal {
+    background-image: url('../剪纸制作_files/u9_normal.png');
+}
+
+.u9_container {
+    position:absolute;
+    left:96px;
+    top:669px;
+    width:35px;
+    height:45px;
+}
+
+#u9_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:35px;
+    height:45px;
+}
+
+.u10 {
+    position:absolute;
+    left:2px;
+    top:14px;
+    width:31px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u11_normal {
+    background-image: url('../剪纸制作_files/u11_normal.png');
+}
+
+.u11_container {
+    position:absolute;
+    left:141px;
+    top:669px;
+    width:44px;
+    height:45px;
+}
+
+#u11_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:44px;
+    height:45px;
+}
+
+.u12 {
+    position:absolute;
+    left:2px;
+    top:14px;
+    width:40px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u13_normal {
+    background-image: url('../剪纸制作_files/u13_normal.png');
+}
+
+.u13_container {
+    position:absolute;
+    left:195px;
+    top:669px;
+    width:43px;
+    height:45px;
+}
+
+#u13_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:43px;
+    height:45px;
+}
+
+.u14 {
+    position:absolute;
+    left:2px;
+    top:14px;
+    width:39px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u15_normal {
+    background-image: url('../剪纸制作_files/u15_normal.png');
+}
+
+.u15_container {
+    position:absolute;
+    left:248px;
+    top:669px;
+    width:37px;
+    height:43px;
+}
+
+#u15_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:37px;
+    height:43px;
+}
+
+.u16 {
+    position:absolute;
+    left:2px;
+    top:14px;
+    width:33px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u17_normal {
+    background-image: url('../剪纸制作_files/u17_normal.png');
+}
+
+.u17_container {
+    position:absolute;
+    left:295px;
+    top:669px;
+    width:48px;
+    height:45px;
+}
+
+#u17_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:48px;
+    height:45px;
+}
+
+.u18 {
+    position:absolute;
+    left:2px;
+    top:14px;
+    width:44px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u19_normal {
+    background-image: url('../剪纸制作_files/u19_normal.png');
+}
+
+.u19_container {
+    position:absolute;
+    left:353px;
+    top:669px;
+    width:48px;
+    height:45px;
+}
+
+#u19_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:48px;
+    height:45px;
+}
+
+.u20 {
+    position:absolute;
+    left:2px;
+    top:14px;
+    width:44px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u21_normal {
+    background-image: url('../剪纸制作_files/u21_normal.png');
+}
+
+.u21_container {
+    position:absolute;
+    left:406px;
+    top:669px;
+    width:45px;
+    height:45px;
+}
+
+#u21_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:45px;
+    height:45px;
+}
+
+.u22 {
+    position:absolute;
+    left:2px;
+    top:14px;
+    width:41px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u23_normal {
+    background-image: url('../剪纸制作_files/u23_normal.png');
+}
+
+.u23_container {
+    position:absolute;
+    left:334px;
+    top:155px;
+    width:189px;
+    height:284px;
+}
+
+#u23_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:189px;
+    height:284px;
+}
+
+.u24 {
+    position:absolute;
+    left:2px;
+    top:134px;
+    width:185px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u25_normal {
+    background-image: url('../剪纸制作_files/u25_normal.png');
+}
+
+.u25_container {
+    position:absolute;
+    left:406px;
+    top:439px;
+    width:46px;
+    height:232px;
+}
+
+#u25_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:46px;
+    height:232px;
+}
+
+.u26 {
+    position:absolute;
+    left:2px;
+    top:108px;
+    width:42px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u27_normal {
+    background-image: url('../剪纸制作_files/u27_normal.png');
+}
+
+.u27_container {
+    position:absolute;
+    left:110px;
+    top:290px;
+    width:275px;
+    height:275px;
+}
+
+#u27_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:275px;
+    height:275px;
+}
+
+.u28 {
+    position:absolute;
+    left:2px;
+    top:130px;
+    width:271px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u29_normal {
+    background-image: url('../返回上一页_files/u38_normal.png');
+}
+
+.u29_container {
+    position:absolute;
+    left:90px;
+    top:722px;
+    width:366px;
+    height:48px;
+}
+
+#u29_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:366px;
+    height:48px;
+}
+
+.u30 {
+    position:absolute;
+    left:2px;
+    top:16px;
+    width:362px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
